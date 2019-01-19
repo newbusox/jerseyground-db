@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+body {
+    font-family: 'Karla'
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+    color: #5FAACF; 
+}
+
+td {
+    padding: 0.5em 1em;
+}
